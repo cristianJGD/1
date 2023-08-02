@@ -1,30 +1,25 @@
 ---
 authors:
 - admin
-- 吳恩達
 categories:
-- Demo
-- 教程
-date: "2020-12-13T00:00:00Z"
+- Estadistica
+- Laboratorio
+date: "2023-08-01T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/es/fotos/klUaFqLAcFw)'
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: ""
 projects: []
-subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
-summary: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
+subtitle: "Los análisis de regresión lineal en laboratorios químicos pueden tener diferentes fines desde la calibración hasta las pruebas de sesgos en la verificación y/o validación de métodos, es una técnica estadística muy concurrente."
+summary: "Los análisis de regresión lineal en laboratorios químicos pueden tener diferentes fines desde la calibración hasta las pruebas de sesgos en la verificación y/o validación de métodos, es una técnica estadística muy concurrente."
 tags:
 - Academic
 - 开源
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Las aplicaciones de la regresión lineal en la calibración y en cuantificación de sesgos
 ---
 
 ```python
