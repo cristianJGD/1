@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Consultor en verificación y/o validación de métodos analíticos químicos.
 education:
   courses:
   - course: Tecnólogo en Procesos Químicos Industriales

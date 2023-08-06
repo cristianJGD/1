@@ -145,7 +145,7 @@ sections:
     columns: "2"
 - block: collection
   content:
-    count: 5
+    count: 2
     filters:
       author: ""
       category: ""
@@ -259,7 +259,7 @@ sections:
     email: cristianjavier14@gmail.com
     form:
       formspree:
-        id: null
+        id: cristianjavier14@gmail.com
       netlify:
         captcha: false
       provider: netlify
@@ -269,7 +269,7 @@ sections:
     phone: +57 3028316614
     subtitle: null
     text: 
-    title: Contact
+    title: Contacto
   design:
     columns: "2"
   id: contact
