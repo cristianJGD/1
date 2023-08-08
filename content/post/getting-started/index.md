@@ -63,3 +63,11 @@ Con esta pequeña introducción quisiera realizar una serie de post que abarquen
 ## Bibliografía
 
 1.Crouch, S., West, DM, Holler, F. y Skoog, DA (2018). Principios de Análisis Instrumental (7a ed.). Cengage Learning Editores SA de CV
+
+<script src="https://utteranc.es/client.js"
+        repo="cristianJGD/comen"
+        issue-term="pathname"
+        theme="gruvbox-dark"
+        crossorigin="anonymous"
+        async>
+</script>

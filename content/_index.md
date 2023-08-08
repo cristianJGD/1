@@ -261,7 +261,7 @@ sections:
       formspree:
         id: cristianjavier14@gmail.com
       netlify:
-        captcha: false
+        captcha: true
       provider: netlify
     office_hours:
     - Lunes a viernes 16:00 a 17:30
