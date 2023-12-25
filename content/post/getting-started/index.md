@@ -22,10 +22,11 @@ tags:
 - Acreditación
 - Laboratorio
 title: Elección de un método analítico
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
-```python
-```
 
 ## Una elección sabia
 
