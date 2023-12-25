@@ -43,13 +43,6 @@ Procedencia | Guía | Imagen
 [*INM*](https://inm.gov.co/web/) | [Guía para el aseguramiento de la validez de las mediciones mediante la reacción en cadena de la polimerasa (PCR)](https://inm.gov.co/web/wp-content/uploads/2023/11/Guia-de-PCR-final-1.pdf) | ![](images/6.jpg)
 [*Eurachem*](https://www.eurachem.org/index.php)| [Acreditación de Laboratorios Microbiológicos (2023)](https://www.eurachem.org/images/stories/Guides/pdf/Eurachem_Guide_AML_2023_EN.pdf) | ![](images/7.jpg)
 
-<script src="https://utteranc.es/client.js"
-        repo="cristianJGD/comen"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
 
 ```
 
