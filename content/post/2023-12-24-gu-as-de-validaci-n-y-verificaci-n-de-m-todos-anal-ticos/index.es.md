@@ -41,8 +41,18 @@ Procedencia | Guía | Imagen
 [*Eurachem*](https://www.eurachem.org/index.php) | [La Adecuación al Uso de los Métodos Analíticos](https://www.eurachem.org/images/stories/Guides/pdf/MV_guide_2nd_ed_ES.pdf) | ![](images/4.jpg)
 [*FDA*](https://www.fda.gov/) | [Guidelines for the Validation of Chemical Methods in Food, Feed, Cosmetics, and Veterinary Products ](https://www.fda.gov/media/81810/download?attachment) | ![](images/5.jpg)
 [*INM*](https://inm.gov.co/web/) | [Guía para el aseguramiento de la validez de las mediciones mediante la reacción en cadena de la polimerasa (PCR)](https://inm.gov.co/web/wp-content/uploads/2023/11/Guia-de-PCR-final-1.pdf) | ![](images/6.jpg)
+[*Eurachem*](https://www.eurachem.org/index.php)| [Acreditación de Laboratorios Microbiológicos (2023)](https://www.eurachem.org/images/stories/Guides/pdf/Eurachem_Guide_AML_2023_EN.pdf) | ![](images/7.jpg)
+
+## Bibliografía
 
 
+<script src="https://utteranc.es/client.js"
+        repo="cristianJGD/comen"
+        issue-term="pathname"
+        theme="gruvbox-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ```
 
